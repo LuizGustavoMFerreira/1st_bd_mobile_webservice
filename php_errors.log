@@ -1,0 +1,20 @@
+[21-May-2019 20:08:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/webservice/lista.php on line 16
+[21-May-2019 20:08:37 UTC] PHP Stack trace:
+[21-May-2019 20:08:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/webservice/lista.php:0
+[21-May-2019 20:08:37 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/webservice/lista.php:16
+[21-May-2019 20:08:37 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/ubuntu/workspace/webservice/lista.php on line 25
+[21-May-2019 20:08:37 UTC] PHP Stack trace:
+[21-May-2019 20:08:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/webservice/lista.php:0
+[21-May-2019 20:08:37 UTC] PHP   2. json_decode() /home/ubuntu/workspace/webservice/lista.php:25
+[21-May-2019 20:09:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/webservice/lista.php on line 16
+[21-May-2019 20:09:42 UTC] PHP Stack trace:
+[21-May-2019 20:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/webservice/lista.php:0
+[21-May-2019 20:09:42 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/webservice/lista.php:16
+[21-May-2019 20:35:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/webservice/lista.php on line 16
+[21-May-2019 20:35:25 UTC] PHP Stack trace:
+[21-May-2019 20:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/webservice/lista.php:0
+[21-May-2019 20:35:25 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/webservice/lista.php:16
+[21-May-2019 20:36:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/webservice/lista.php on line 16
+[21-May-2019 20:36:05 UTC] PHP Stack trace:
+[21-May-2019 20:36:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/webservice/lista.php:0
+[21-May-2019 20:36:05 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/webservice/lista.php:16
